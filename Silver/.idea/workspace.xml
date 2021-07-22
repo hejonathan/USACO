@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23d01d53-9cfc-43f0-8f8f-1fe92fbe9fd6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kyYWoRQ3oB91gXFlLfPN1YNdx8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+  </component>
+  <component name="RunManager" selected="Application.appleOrchard">
+    <configuration name="DigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DigitSum" />
+      <module name="USACO Silver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IslandIso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IslandIso" />
+      <module name="USACO Silver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PokePerm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PokePerm" />
+      <module name="USACO Silver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreetLayout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreetLayout" />
+      <module name="USACO Silver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="appleOrchard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="appleOrchard" />
+      <module name="USACO Silver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.appleOrchard" />
+        <item itemvalue="Application.StreetLayout" />
+        <item itemvalue="Application.PokePerm" />
+        <item itemvalue="Application.IslandIso" />
+        <item itemvalue="Application.DigitSum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23d01d53-9cfc-43f0-8f8f-1fe92fbe9fd6" name="Default Changelist" comment="" />
+      <created>1606674333023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606674333023</updated>
+      <workItem from="1606674334095" duration="322000" />
+      <workItem from="1606682263014" duration="3918000" />
+      <workItem from="1606968937842" duration="400000" />
+      <workItem from="1606970733542" duration="1219000" />
+      <workItem from="1607307791889" duration="4666000" />
+      <workItem from="1607484939723" duration="7325000" />
+      <workItem from="1607997652398" duration="2412000" />
+      <workItem from="1608000079679" duration="7308000" />
+      <workItem from="1608088143586" duration="1845000" />
+      <workItem from="1608338115424" duration="5230000" />
+      <workItem from="1608347997424" duration="85000" />
+      <workItem from="1608348579185" duration="1322000" />
+      <workItem from="1608351350530" duration="401000" />
+      <workItem from="1608407984495" duration="9996000" />
+      <workItem from="1608663515992" duration="5051000" />
+      <workItem from="1608680111853" duration="5172000" />
+      <workItem from="1608699360931" duration="99000" />
+      <workItem from="1608755862007" duration="2251000" />
+      <workItem from="1608759252414" duration="4247000" />
+      <workItem from="1608845309564" duration="7042000" />
+      <workItem from="1608933237007" duration="4845000" />
+      <workItem from="1609265814847" duration="10482000" />
+      <workItem from="1609295814556" duration="1617000" />
+      <workItem from="1609356098828" duration="11530000" />
+      <workItem from="1609376719304" duration="643000" />
+      <workItem from="1609439980018" duration="13318000" />
+      <workItem from="1609468155969" duration="1024000" />
+      <workItem from="1609522792984" duration="3352000" />
+      <workItem from="1609530972426" duration="19437000" />
+      <workItem from="1609624521459" duration="763000" />
+      <workItem from="1609625561877" duration="5400000" />
+      <workItem from="1609814354760" duration="2950000" />
+      <workItem from="1609994644016" duration="1535000" />
+      <workItem from="1610073553856" duration="6242000" />
+      <workItem from="1610214350013" duration="7031000" />
+      <workItem from="1610223922117" duration="1518000" />
+      <workItem from="1610404320034" duration="5524000" />
+      <workItem from="1610645031845" duration="1309000" />
+      <workItem from="1610939582773" duration="3722000" />
+      <workItem from="1611114144115" duration="3252000" />
+      <workItem from="1611202557145" duration="1965000" />
+      <workItem from="1611284193156" duration="3152000" />
+      <workItem from="1611879716164" duration="1082000" />
+      <workItem from="1612491629256" duration="332000" />
+      <workItem from="1613005705311" duration="215000" />
+      <workItem from="1613006102386" duration="254000" />
+      <workItem from="1614230986901" duration="400000" />
+      <workItem from="1614231575415" duration="2332000" />
+      <workItem from="1614491097714" duration="902000" />
+      <workItem from="1614492559513" duration="107000" />
+      <workItem from="1614492675406" duration="634000" />
+      <workItem from="1614493686882" duration="34000" />
+      <workItem from="1614493733202" duration="84000" />
+      <workItem from="1614525458871" duration="10395000" />
+      <workItem from="1614984466422" duration="2044000" />
+      <workItem from="1614991496599" duration="5303000" />
+      <workItem from="1615053491110" duration="5806000" />
+      <workItem from="1615138339603" duration="18329000" />
+      <workItem from="1615485084781" duration="3667000" />
+      <workItem from="1615495924209" duration="5587000" />
+      <workItem from="1615683550463" duration="3776000" />
+      <workItem from="1615781568436" duration="1310000" />
+      <workItem from="1616124341672" duration="4830000" />
+      <workItem from="1616260024129" duration="1953000" />
+      <workItem from="1617387528831" duration="11583000" />
+      <workItem from="1617408816283" duration="626000" />
+      <workItem from="1621221636610" duration="1310000" />
+      <workItem from="1621223561847" duration="1327000" />
+      <workItem from="1621266698016" duration="994000" />
+      <workItem from="1623509630584" duration="9482000" />
+      <workItem from="1623521538601" duration="21000" />
+      <workItem from="1626806190519" duration="22000" />
+      <workItem from="1626806220578" duration="25000" />
+      <workItem from="1626806254654" duration="11000" />
+      <workItem from="1626806268425" duration="12000" />
+      <workItem from="1626806315230" duration="7000" />
+      <workItem from="1626806336143" duration="13000" />
+      <workItem from="1626806376325" duration="108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/measurement.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cowntagion.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/slowdown.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/teleport.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/crowded.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/crowded.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/crowded.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/crowded.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cruise.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cruise.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cruise.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TrafficLights.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RoomAllocation.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RoomAllocation.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/wormsort.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/wormsort.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/perimeter.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/crypt1.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/wormhole.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/wormhole.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/castle.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/frac1.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort3.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/holstein.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/holstein.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hamming.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/preface.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/preface.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/subset.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/p2.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/p2.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/p2.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/p2.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IslandIso.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IslandIso.java</url>
+          <line>21</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/appleOrchard.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/appleOrchard.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pails.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="16" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="72" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="73" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
